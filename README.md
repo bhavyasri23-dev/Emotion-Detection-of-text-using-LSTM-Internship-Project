@@ -73,4 +73,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to modify the content as needed. Let me know if you need any further assistance!
